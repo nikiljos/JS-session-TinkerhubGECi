@@ -10,6 +10,9 @@ Code files discussed during JavaScript Bootcamp conducted by Tinkerhub GEC Idukk
 |4|Axios Github API|[View](https://github.com/nikiljos/JS-session-TinkerhubGECi/tree/main/4-axios-github-api)|[View](https://nikjos.in/JS-session-TinkerhubGECi/4-axios-github-api)|
 |5|Show Github followers as per username input|[View](https://github.com/nikiljos/JS-session-TinkerhubGECi/tree/main/5-axios-github-api-with-input)|[View](https://nikjos.in/JS-session-TinkerhubGECi/5-axios-github-api-with-input)|
 
+#### [Day 1 Notes](https://nikjos.in/JS-session-TinkerhubGECi/day1.pdf)  
+#### [Day 2 Notes](https://nikjos.in/JS-session-TinkerhubGECi/day2.pdf)
+
 <!-- |3|Number Counter|[View]()|[View]()| -->
 
 <img src="https://user-images.githubusercontent.com/57913645/147779113-cc7d07ef-3240-4313-8ea6-b2e974b7ff83.jpeg" width="50%">
